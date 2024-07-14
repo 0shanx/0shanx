@@ -15,6 +15,8 @@ Hey there! I'm Oshan Manhas ~ @0shanx , a coding enthusiast with a passion for c
 ## 🌌 GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0shanx&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0shanx&layout=compact&theme=tokyonight)
+
 
 ---
 
