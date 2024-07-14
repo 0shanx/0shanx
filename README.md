@@ -1,18 +1,34 @@
-# 🌟 Welcome, Adventurer! 🌟
-- 👋 Hi, I’m Oshan Manhas ~ @0shanx
+# 🌟 Welcome to My GitHub Galaxy! 🌟
 
-Step into my digital lair, where magic meets code and creativity flows like bits and bytes.
+Hey there! I'm Oshan Manhas ~ @0shanx , a coding enthusiast with a passion for creating and exploring the digital universe.
 
-## Who Am I?
-- 🧙‍♂️ **Code Wizard**: Casting spells in Ethical Hacking.
-- 🧩 **Data Detective**: Unraveling mysteries in Social Networking Analysis.
-- 🤖 **Visionary**: Teaching machines to see in Computer Vision.
-- ⚙️ **Circuit Conjurer**: Designing smart VLSI circuits with C.
-- 🏹 **Code Warrior**: Battling coding challenges in Competitive Programming.
+---
 
-Explore my enchanted repositories, where each project is a spellbinding story waiting to unfold.
+## 🧩 About Me
 
-Happy coding, fellow adventurer! 🌟
+- 🖥️ **Coder by Heart**: Crafting elegant solutions to complex problems.
+- 🔧 **Tech Explorer**: Always on the hunt for new technologies and tools.
+- 🎯 **Problem Solver**: Turning challenges into opportunities.
+
+---
+
+## ⚡ Fun Fact
+
+I speak code fluently and enjoy the thrill of debugging mysterious bugs. When I'm not coding, you might find me exploring new tech trends or tinkering with gadgets.
+
+---
+
+## 🌌 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0shanx&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0shanx&layout=compact&theme=tokyonight)
+
+---
+
+**Keep exploring, keep creating, and let the code flow!**
+
+⭐️ From Oshan Manhas
+
 
 
 <!---
