@@ -1,32 +1,22 @@
-# 🌟 Welcome to My GitHub Galaxy! 🌟
+# 🚀 Oshan Manhas | @0shanx  
+### *Building • Learning • Breaking • Scaling*
 
-Hey there! I'm Oshan Manhas ~ @0shanx , a coding enthusiast with a passion for creating and exploring the digital universe.
-
----
-
-## 🧩 About Me
-
-- 🖥️ **Coder by Heart**: Crafting elegant solutions to complex problems.
-- 🔧 **Tech Explorer**: Always on the hunt for new technologies and tools.
-- 🎯 **Problem Solver**: Turning challenges into opportunities.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Future+Software+Engineer;Open+Source+Explorer;GATE+2026+Aspirant;Turning+Ideas+Into+Code" />
+</p>
 
 ---
 
-## 🌌 GitHub Stats
+## 🌌 Who Am I?
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0shanx&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0shanx&layout=compact&theme=tokyonight)
-
-
----
-
-**Keep exploring, keep creating, and let the code flow!**
-
-⭐️ From Oshan Manhas
-
-
-
-<!---
-0shanx/0shanx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```yaml
+Name: Oshan Manhas
+Role: Computer Science Engineer (in making)
+Focus:
+  - Software Development
+  - Data Science & ML
+  - Systems & Core CS
+Current Mission:
+  - Crack GATE 2026
+  - Build strong CS fundamentals
+  - Create real-world projects
