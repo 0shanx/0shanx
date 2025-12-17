@@ -7,6 +7,11 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/0shanx/0shanx/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 🌌 Who Am I?
 
 ```yaml
@@ -21,6 +26,3 @@ Current Mission:
   - Build strong CS fundamentals
   - Create real-world projects
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/0shanx/0shanx/blob/output/github-contribution-grid-snake.svg)
