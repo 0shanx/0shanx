@@ -25,3 +25,7 @@ Current Mission:
 
 ![Snake animation](https://github.com/0shanx/0shanx/blob/output/github-contribution-grid-snake.svg)
 
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Learning+Never+Stops;Consistency+Over+Motivation">
+
+
